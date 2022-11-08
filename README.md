@@ -1,4 +1,4 @@
-# Assignment 1 COMP3320 - Molecular Dynamics Project
+Molecular Dynamics Project
 
 ## Worth 20%, due by [10AM Friday 2nd September, 2022](https://www.timeanddate.com/countdown/generic?iso=20220902T10&p0=57&msg=COMP3320%2FCOMP6464+2022+Assignment+1+Due&ud=1&font=cursive)
 
